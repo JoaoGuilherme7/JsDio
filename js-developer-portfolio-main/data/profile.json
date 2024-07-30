@@ -1,0 +1,74 @@
+{
+  "name": "João Guilherme Aguiar Moreira",
+  "photo": "../assets/img/my-photo.png",
+  "job": "Student",
+  "location": "Nova Friburgo - RJ",
+  "phone": "(22) 981678204",
+  "email": "jgam3010@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "./imgs/js.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "./imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "./imgs/cs.png"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "./imgs/react.png"
+      },
+      {
+        "name": "Nodejs",
+        "logo": "./imgs/nodejs.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "./imgs/mysql.png"
+      },
+      {
+        "name": "Java",
+        "logo": "./imgs/java.png"
+      },
+      {
+        "name": "React",
+        "logo": "./imgs/react.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/JoaoGuilherme7/JsDio/tree/main/js-developer-pokedex-main",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "xxx",
+      "github": false
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Waiting for you to fill this.",
+      "period": "---",
+      "description": "---"
+    }
+  ]
+}
