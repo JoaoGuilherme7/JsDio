@@ -1,6 +1,6 @@
 {
   "name": "João Guilherme Aguiar Moreira",
-  "photo": "../assets/img/my-photo.png",
+  "photo": "./assets/img/my-photo.png",
   "job": "Student",
   "location": "Nova Friburgo - RJ",
   "phone": "(22) 981678204",
